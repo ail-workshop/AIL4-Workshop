@@ -32,13 +32,13 @@ body {
 
 a {
     font-weight: 400;
-    color: #006699;
+    color: #026614; 
     text-decoration: none;
     border-bottom: 1px solid;
 }
 
 a:hover {
-    color: #B31B1B;
+    color: #b74c03;
 }
 
 table.reg tr {
@@ -46,7 +46,7 @@ table.reg tr {
 }
 
 table.reg th {
-    color: #B31B1B;
+    color: #b74c03;
 }
 
 table.reg {
@@ -56,12 +56,12 @@ table.reg {
 
 hr {
     border-style: solid;
-    border-color: #B31B1B;
+    border-color: #b74c03;
     border-width: 0.5px;
 }
 
 .alert {
-    color: #B31B1B;
+    color: #b74c03;
 }
 
 img.resize {
